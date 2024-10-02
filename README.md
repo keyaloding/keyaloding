@@ -5,7 +5,7 @@ SWE Intern | CS @ UChicago '26
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-TODO
+I am a third-year student at the University of Chicago studying computer science with a strong foundation in backend development and growing experience in frontend development. I'm currently a software engineering intern at the Salk Institute for Biological Studies in the Talmo Lab. I'm particularly excited about building real-world applications that leverage deep learning models. I'm now looking for opportunities to apply my programming and problem-solving skills to create impactful software solutions. Please feel free to reach out if you'd like to connect!
 
 <details>
  <summary><h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
@@ -42,7 +42,7 @@ TODO
 <details>
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
-  #### Languages
+  #### Languages (from most to least proficient)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -57,8 +57,6 @@ TODO
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
-  #### Deployment
-  TODO
 </details>
 
 <details>
@@ -73,7 +71,7 @@ TODO
 </details>
 
 <details>
-  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Socials</h2></summary>
+  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Social Media</h2></summary>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/keyaloding">
