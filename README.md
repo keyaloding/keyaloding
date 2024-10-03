@@ -3,6 +3,10 @@
 SWE Intern | CS @ UChicago '26
 </h2>
 
+<div align="center">
+ <img alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47gk1528878r4j8py2luujr4sswa3ejtsw7cf7w94a&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+</div>
+
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
 I am a third-year student at the University of Chicago studying computer science with a strong foundation in backend development and growing experience in frontend development. I'm currently a software engineering intern at the Salk Institute for Biological Studies in the Talmo Lab. I'm particularly excited about building real-world applications that leverage deep learning models. I'm now looking for opportunities to apply my programming and problem-solving skills to create impactful software solutions. Please feel free to reach out if you'd like to connect!
@@ -53,9 +57,8 @@ I am a third-year student at the University of Chicago studying computer science
 
   #### Libraries/Frameworks
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-  ![Express.js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+  TODO
 
 </details>
 
@@ -63,7 +66,7 @@ I am a third-year student at the University of Chicago studying computer science
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
   #### <a href="https://github.com/keyaloding/youtube-clone">Youtube Clone</a>
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"> <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>  
+  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></span>  
   - Created a video processing program (using ffmpeg) to transcode user-uploaded videos and store them in cloud storage
 
 </details>
