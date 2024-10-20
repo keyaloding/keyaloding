@@ -19,14 +19,14 @@ I am a third-year student at the University of Chicago studying computer science
 
   <span><img src="https://chen.uchicago.edu/files/2019/07/UChicago-logo.jpg" width="70"/> <p>**University of Chicago** | September 2022 - May 2026</p></span>
   <p>B.S. Computer Science, Specialization in Human-Computer Interaction</p>
-  <p>Coursework:</p>
-  - Systems Programming
-  - Mathematical Foundations of Machine Learning
-  - Machine Learning
-  - Discrete Mathematics
-  - Theory of Algorithms
-  - Neural Networks
-  - Linear Algebra
+  <p>Relevant Coursework:</p>
+  - Systems Programming<br>
+  - Mathematical Foundations of Machine Learning<br>
+  - Machine Learning<br>
+  - Discrete Mathematics<br>
+  - Theory of Algorithms<br>
+  - Neural Networks<br>
+  - Linear Algebra<br>
   
 </details>
  <details>
@@ -53,12 +53,10 @@ I am a third-year student at the University of Chicago studying computer science
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
   #### Libraries/Frameworks
   ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-  TODO
 
 </details>
 
