@@ -47,11 +47,11 @@ I am a third-year student at the University of Chicago studying computer science
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
   #### Languages (from most to least proficient)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
   #### Libraries/Frameworks
@@ -63,9 +63,10 @@ I am a third-year student at the University of Chicago studying computer science
 <details>
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-  #### <a href="https://github.com/keyaloding/youtube-clone">Youtube Clone</a>
+#### <a href="https://github.com/keyaloding/youtube-clone">Youtube Clone</a>
+
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></span>  
-  - Created a video processing program (using ffmpeg) to transcode user-uploaded videos and store them in cloud storage
+  Created a video processing program (using ffmpeg) to transcode user-uploaded videos and store them in cloud storage
 
 </details>
 
@@ -83,28 +84,13 @@ I am a third-year student at the University of Chicago studying computer science
   </a>
 </div>
 
-  
 </details>
 
 ## <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
-<p> 
- <i>You can reach out to me via</i> 
+<p>
+ <i>You can reach out to me via</i>
 &nbsp;<a href="mailto:contact.loding.keya@gmail.com">
      <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
-<!--
-**keyaloding/keyaloding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
