@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Hi.gif" width="28px"/>, I'm Keya Loding</h2>
 <h2 align="center">
-SWE Intern | CS @ UChicago '26
+UChicago '26 | Computer Science
 </h2>
 
 <div align="center">
@@ -9,7 +9,7 @@ SWE Intern | CS @ UChicago '26
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a third-year student at the University of Chicago studying computer science with a strong foundation in backend development and growing experience in frontend development. I'm currently a software engineering intern at the Salk Institute for Biological Studies in the Talmo Lab. I'm particularly excited about building real-world applications that leverage deep learning models. I'm now looking for opportunities to apply my programming and problem-solving skills to create impactful software solutions. Please feel free to reach out if you'd like to connect!
+I am a third-year student at the University of Chicago studying computer science with a strong foundation in backend development and growing experience in frontend development. I have previously worked as a software engineering intern at the Salk Institute for Biological Studies in the Talmo Lab. I'm particularly excited about building real-world applications that leverage deep learning models. I'm now looking for opportunities to apply my programming and problem-solving skills to create impactful software solutions. Please feel free to reach out if you'd like to connect!
 
 <details>
  <summary><h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
@@ -32,7 +32,7 @@ I am a third-year student at the University of Chicago studying computer science
  <details>
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Software Engineering Intern** at the Salk Institute for Biological Studies | June 2024 - present
+- **Software Engineering Intern** at the Salk Institute for Biological Studies | June 2024 - November 2024
   - Built a Python web app using Streamlit and pygfx that allows users to interact with real-time visualizations by offering a more interactive and dynamic experience
   - Integrated support for ‘.nwb’ data from Neurodata without Borders, enabling seamless data standardization for neurophysiology.
   - Implemented GUI trackpad support using the QtPy library, enhancing user experience and interaction.
