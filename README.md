@@ -68,6 +68,10 @@ I am a third-year student at the University of Chicago studying computer science
   <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></span>  
   Created a video processing program (using ffmpeg) to transcode user-uploaded videos and store them in cloud storage
 
+#### <a href="https://github.com/keyaloding/nasa-space-apps">2024 NASA Space Apps Challenge, Chicago</a>
+## Top Ten Finalist
+Designed a website during a 30-hour hackathon allows users to explore an artificial version of Earth in which chemosynthesis sustains all life, using a 3D molecule visualizer, interactive food web builder, and interactive simulator that shows organisms found in oceanic depths
+
 </details>
 
 </details>
