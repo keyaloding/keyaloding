@@ -70,10 +70,8 @@ I am a third-year student at the University of Chicago studying computer science
 
 #### <a href="https://github.com/keyaloding/nasa-space-apps">2024 NASA Space Apps Challenge, Chicago</a>
 <span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
-## Top Ten Finalist
+#### Top Ten Finalist
 Designed a website during a 30-hour hackathon allows users to explore an artificial version of Earth in which chemosynthesis sustains all life, using a 3D molecule visualizer, interactive food web builder, and interactive simulator that shows organisms found in oceanic depths
-
-https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 
 </details>
 
