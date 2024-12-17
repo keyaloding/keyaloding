@@ -18,14 +18,14 @@ I am a third-year student at the University of Chicago studying computer science
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif"  width="29"/> Education</h2></summary>
 
   <span><img src="https://chen.uchicago.edu/files/2019/07/UChicago-logo.jpg" width="70"/> <p>**University of Chicago** | September 2022 - May 2026</p></span>
-  <p>B.S. Computer Science, Specialization in Human-Computer Interaction</p>
+  <p>B.S. Computer Science, Specialization in Computer Systems</p>
   <p>Relevant Coursework:</p>
   - Systems Programming<br>
-  - Mathematical Foundations of Machine Learning<br>
-  - Machine Learning<br>
-  - Discrete Mathematics<br>
+  - Computer Architecture<br>
+  - Database Systems<br>
   - Theory of Algorithms<br>
-  - Neural Networks<br>
+  - Mathematical Foundations of Machine Learning<br>
+  - Discrete Mathematics<br>
   - Linear Algebra<br>
   
 </details>
@@ -46,9 +46,10 @@ I am a third-year student at the University of Chicago studying computer science
 <details>
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
 
-  #### Languages (from most to least proficient)
+  #### Programming Languages
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -94,8 +95,8 @@ Designed a website during a 30-hour hackathon allows users to explore an artific
 ## <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
 <p>
- <i>You can reach out to me via</i>
-&nbsp;<a href="mailto:contact.loding.keya@gmail.com">
+ <i>You can reach out to me via email: </i>
+&nbsp;<a href="mailto:contact.keyaloding@uchicago.edu">
      <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Gmail.gif"  width="100"/>
  </a>
 </p>
