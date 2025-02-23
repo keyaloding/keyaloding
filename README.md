@@ -9,7 +9,7 @@ UChicago '26 | Computer Science
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a third-year student at the University of Chicago studying computer science with a strong foundation in backend development and growing experience in frontend development. I have previously worked as a software engineering intern at the Salk Institute for Biological Studies in the Talmo Lab. I'm particularly excited about building real-world applications that leverage deep learning models. I'm now looking for opportunities to apply my programming and problem-solving skills to create impactful software solutions. Please feel free to reach out if you'd like to connect!
+I am a third-year student at the University of Chicago studying computer science with a strong foundation in backend development and growing experience in frontend development. I have previously worked as a software engineering intern at the Salk Institute for Biological Studies. I'm particularly excited about building real-world applications that leverage deep learning models. I'm now looking for opportunities to apply my programming and problem-solving skills to create impactful software solutions. Please feel free to reach out if you'd like to connect!
 
 <details>
  <summary><h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
@@ -51,28 +51,32 @@ I am a third-year student at the University of Chicago studying computer science
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-  #### Libraries/Frameworks
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 
 </details>
 
 <details>
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-#### <a href="https://github.com/keyaloding/youtube-clone">Youtube Clone</a>
+#### <a href="https://github.com/keyaloding/shell">Unix Shell</a> | C, Unix | February 2025
 
-  <span><img src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=for-the-badge&logo=node.js&logoColor=white"> <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></span>  
-  Created a video processing program (using ffmpeg) to transcode user-uploaded videos and store them in cloud storage
+- Developed a Unix-like shell in C, implementing process creation and management with system calls
+- Applied defensive programming techniques to handle invalid user input, prevent buffer overflows, and ensure robust error handling, improving the shell’s stability and security.
+- Implemented input/output redirection to support file-based command execution and automated testing.
+- Designed a modular architecture by structuring the shell’s core functionalities into separate components, making the codebase extensible for future enhancements such as piping and background process execution.
 
-#### <a href="https://github.com/keyaloding/nasa-space-apps">2024 NASA Space Apps Challenge, Chicago</a>
-<span><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></span>
-#### Top Ten Finalist
-Designed a website during a 30-hour hackathon allows users to explore an artificial version of Earth in which chemosynthesis sustains all life, using a 3D molecule visualizer, interactive food web builder, and interactive simulator that shows organisms found in oceanic depths
+#### <a href="https://github.com/keyaloding/topsy-turvy">Topsy-Turvy</a> | C, C++, POSIX Threads, LLDB, Valgrind | December 2024
+
+- Created a terminal-based game with efficient data structures including doubly linked lists and designed modular game logic using structs for scalable and maintainable code.
+- Optimized memory usage by implementing bit-packing techniques and validated code integrity using Valgrind for memory leak detection.
+- Improved performance and concurrency by leveraging pthreads for multithreading, ensuring responsive gameplay even with complex board state updates.
+- Implemented unit testing with the Criterion framework and systematic debugging using LLDB
+
+#### <a href="https://github.com/keyaloding/nasa-space-apps">2024 NASA Space Apps Challenge, Chicago</a> | Python | October 2024
+
+- Designed a website during a 30-hour hackathon that allows users to explore an artificial version of Earth in which chemosynthesis sustains all life, using a 3D molecule visualizer, interactive food web builder, and interactive simulator that shows organisms found in oceanic depths
+- Placed in the top 10 out of 71 teams.
 
 </details>
 
