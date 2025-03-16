@@ -9,7 +9,12 @@ UChicago '26 | Computer Science
 
 ## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
 
-I am a third-year student at the University of Chicago studying computer science with a strong foundation in backend development and growing experience in frontend development. I have previously worked as a software engineering intern at the Salk Institute for Biological Studies. I'm particularly excited about building real-world applications that leverage deep learning models. I'm now looking for opportunities to apply my programming and problem-solving skills to create impactful software solutions. Please feel free to reach out if you'd like to connect!
+I am a third-year student at the University of Chicago studying computer science
+with a strong foundation in backend development and growing experience in
+frontend development. I have previously worked as a software engineering intern
+at the Salk Institute for Biological Studies. I'm now looking for opportunities
+to apply my programming and problem-solving skills to create impactful software
+solutions. Please feel free to reach out if you'd like to connect!
 
 <details>
  <summary><h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
@@ -18,7 +23,7 @@ I am a third-year student at the University of Chicago studying computer science
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif"  width="29"/> Education</h2></summary>
 
   <span><img src="https://chen.uchicago.edu/files/2019/07/UChicago-logo.jpg" width="70"/> <p>**University of Chicago** | September 2022 - May 2026</p></span>
-  <p>B.S. Computer Science, Specialization in Computer Systems</p>
+  <p>B.S. Computer Science</p>
   <p>Relevant Coursework:</p>
   - Systems Programming<br>
   - Computer Architecture<br>
@@ -27,19 +32,29 @@ I am a third-year student at the University of Chicago studying computer science
   - Mathematical Foundations of Machine Learning<br>
   - Discrete Mathematics<br>
   - Linear Algebra<br>
-  
+
 </details>
  <details>
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
 
-- **Software Engineering Intern** at the Salk Institute for Biological Studies | June 2024 - November 2024
-  - Built a Python web app using Streamlit and pygfx that allows users to interact with real-time visualizations by offering a more interactive and dynamic experience
-  - Integrated support for ‘.nwb’ data from Neurodata without Borders, enabling seamless data standardization for neurophysiology.
-  - Implemented GUI trackpad support using the QtPy library, enhancing user experience and interaction.
+- **Software Engineering Intern** at the Salk Institute for Biological Studies
+  | June 2024 - November 2024
+  - Built a Python web app using Streamlit and pygfx that allows users to
+    interact with real-time visualizations by offering a more interactive
+    and dynamic experience
+  - Integrated support for 'nwb' data from Neurodata without Borders,
+    enabling seamless data standardization for neurophysiology.
+  - Implemented GUI trackpad support using the QtPy library,
+    enhancing user experience and interaction.
 
-- **Biomedical Informatics Intern** at the University of Chicago Department of Medicine | February 2024 - May 2024
-  - Analyzed large-scale electronic biobanks to uncover the mechanisms of cardiovascular disease using longitudinal analysis, mixed-effect modeling, and regression
-  - Used bioinformatics methods for population genetics studies, such as genome-wide association studies, QTL mapping, polygenetic risk prediction, and pleiotropy analysis
+- **Data Science/Bioinformatics Research Intern** at the UChicago
+  Department of Medicine | February 2024 - May 2024
+  - Developed and optimized Python scripts to analyze large-scale electronic
+    biobanks, studying cardiovascular disease through longitudinal analysis,
+    mixed-effects modeling, and regression
+  - Used bioinformatics methods for population genetics studies, such as
+    genome-wide association studies, QTL mapping, polygenetic risk prediction,
+    and pleiotropy analysis
 
 </details>
 
@@ -59,21 +74,26 @@ I am a third-year student at the University of Chicago studying computer science
 <details>
   <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2></summary>
 
-#### <a href="https://github.com/keyaloding/shell">Unix Shell</a> | C, Unix | February 2025
+#### [K Malloc](https://github.com/keyaloding/kmalloc) | C | February 2025
+- Developed a custom dynamic memory allocator to manage heap memory efficiently.
+- Implemented memory allocation using `mmap()`, expanding the heap dynamically based on process demands.
+- Handled memory fragmentation and coalescing, improving performance and reducing wasted space.
+
+#### [Unix Shell](https://github.com/keyaloding/shell) | C, Unix | February 2025
 
 - Developed a Unix-like shell in C, implementing process creation and management with system calls
-- Applied defensive programming techniques to handle invalid user input, prevent buffer overflows, and ensure robust error handling, improving the shell’s stability and security.
+- Applied defensive programming techniques to handle invalid user input, prevent buffer overflows, and ensure robust error handling, improving the shell's stability and security.
 - Implemented input/output redirection to support file-based command execution and automated testing.
-- Designed a modular architecture by structuring the shell’s core functionalities into separate components, making the codebase extensible for future enhancements such as piping and background process execution.
+- Designed a modular architecture by structuring the shell's core functionalities into separate components, making the codebase extensible for future enhancements such as piping and background process execution.
 
-#### <a href="https://github.com/keyaloding/topsy-turvy">Topsy-Turvy</a> | C, C++, POSIX Threads, LLDB, Valgrind | December 2024
+#### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy) | C, POSIX Threads, LLDB, Valgrind | December 2024
 
 - Created a terminal-based game with efficient data structures including doubly linked lists and designed modular game logic using structs for scalable and maintainable code.
 - Optimized memory usage by implementing bit-packing techniques and validated code integrity using Valgrind for memory leak detection.
 - Improved performance and concurrency by leveraging pthreads for multithreading, ensuring responsive gameplay even with complex board state updates.
 - Implemented unit testing with the Criterion framework and systematic debugging using LLDB
 
-#### <a href="https://github.com/keyaloding/nasa-space-apps">2024 NASA Space Apps Challenge, Chicago</a> | Python | October 2024
+#### [2024 NASA Space Apps Challenge, Chicago](https://github.com/keyaloding/nasa-space-apps) | Python | October 2024
 
 - Designed a website during a 30-hour hackathon that allows users to explore an artificial version of Earth in which chemosynthesis sustains all life, using a 3D molecule visualizer, interactive food web builder, and interactive simulator that shows organisms found in oceanic depths
 - Placed in the top 10 out of 71 teams.
@@ -100,7 +120,5 @@ I am a third-year student at the University of Chicago studying computer science
 
 <p>
  <i>You can reach out to me via email: </i>
-&nbsp;<a href="mailto:contact.keyaloding@uchicago.edu">
-     <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Gmail.gif"  width="100"/>
- </a>
+&nbsp;[contact.keyaloding@uchicago.edu](mailto:contact.keyaloding@uchicago.edu)
 </p>
