@@ -7,7 +7,7 @@ UChicago '26 | Computer Science
  <img alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47gk1528878r4j8py2luujr4sswa3ejtsw7cf7w94a&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 </div>
 
-## <img align ='center' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjh2dDM4bDhyYzM5NmppaHJ6dG56Mmh3bTkyanFkdWRvZ3R1cGoycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="37" /> About Me
+<h2><img alt="GIF" src="https://github.com/keyaloding/keyaloding/icons/about.gif" /> About Me</h2>
 
 I am a third-year student at the University of Chicago studying computer science
 with a strong foundation in backend development and growing experience in
@@ -16,29 +16,27 @@ at the Salk Institute for Biological Studies. I'm now looking for opportunities
 to apply my programming and problem-solving skills to create impactful software
 solutions. Please feel free to reach out if you'd like to connect!
 
-<details>
- <summary><h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/about.png" width="37" /> Resume</h2></summary>
- 
- <details>
-  <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif"  width="29"/> Education</h2></summary>
+<h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif" width="29"/> Education</h2>
 
-  <span><img src="https://chen.uchicago.edu/files/2019/07/UChicago-logo.jpg" width="70"/> <p>**University of Chicago** | September 2022 - May 2026</p></span>
-  <p>B.S. Computer Science</p>
-  <p>Relevant Coursework:</p>
-  - Systems Programming<br>
-  - Computer Architecture<br>
-  - Database Systems<br>
-  - Theory of Algorithms<br>
-  - Mathematical Foundations of Machine Learning<br>
-  - Discrete Mathematics<br>
-  - Linear Algebra<br>
+**University of Chicago** | September 2022 - May 2026
+<p>B.S. Computer Science</p>
+<p>Relevant Coursework:</p>
 
-</details>
- <details>
-  <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif"  width="29"/> Experience</h2></summary>
+- Systems Programming
+- Database Systems
+- Computer Architecture
+- Computer Security
+- Mathematical Foundations of Machine Learning
+- Linear Algebra
+- Discrete Mathematics
+- Theory of Algorithms
+
+<h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif" width="29"/> Experience</h2>
+
+- **Incoming Software Engineering Intern** at Vertex, Inc | June 2025 - August 2025
 
 - **Software Engineering Intern** at the Salk Institute for Biological Studies
-  | June 2024 - November 2024
+  | June 2024 - October 2024
   - Built a Python web app using Streamlit and pygfx that allows users to
     interact with real-time visualizations by offering a more interactive
     and dynamic experience
@@ -56,54 +54,61 @@ solutions. Please feel free to reach out if you'd like to connect!
     genome-wide association studies, QTL mapping, polygenetic risk prediction,
     and pleiotropy analysis
 
-</details>
+<h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2>
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2></summary>
+- **Programming Languages:** Python, C/C++, SQL, Rust, R, Java
+- **Libraries/Frameworks:** PyTorch, Pandas, Matplotlib, React
+- **Developer Tools:** Git, Unix, Docker
 
-  #### Programming Languages
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+<h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2>
 
-</details>
+### [Last Stand](https://github.com/mutrera-2004/UH2025) | Python | March 2025
 
-<details>
-  <summary><h4> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2></summary>
+- Developed a top-down zombie survival shooter game with the `pygame` library
 
-#### [K Malloc](https://github.com/keyaloding/kmalloc) | C | February 2025
-- Developed a custom dynamic memory allocator to manage heap memory efficiently.
-- Implemented memory allocation using `mmap()`, expanding the heap dynamically based on process demands.
-- Handled memory fragmentation and coalescing, improving performance and reducing wasted space.
+### [K Malloc](https://github.com/keyaloding/kmalloc) | C | February 2025
 
-#### [Unix Shell](https://github.com/keyaloding/shell) | C, Unix | February 2025
+- Developed a custom dynamic memory allocator to manage heap memory efficiently
+- Implemented memory allocation using `mmap()`, expanding the heap dynamically
+  based on process demands
+- Handled memory fragmentation and coalescing, improving performance and
+  reducing wasted space
 
-- Developed a Unix-like shell in C, implementing process creation and management with system calls
-- Applied defensive programming techniques to handle invalid user input, prevent buffer overflows, and ensure robust error handling, improving the shell's stability and security.
-- Implemented input/output redirection to support file-based command execution and automated testing.
-- Designed a modular architecture by structuring the shell's core functionalities into separate components, making the codebase extensible for future enhancements such as piping and background process execution.
+### [Unix Shell](https://github.com/keyaloding/shell) | C, Unix | February 2025
 
-#### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy) | C, POSIX Threads, LLDB, Valgrind | December 2024
+- Developed a Unix-like shell in C, implementing process creation and management
+  with system calls
+- Applied defensive programming techniques to handle invalid user input, prevent
+  buffer overflows, and ensure robust error handling, improving the shell's
+  stability and security
+- Implemented input/output redirection to support file-based command execution
+  and automated testing
+- Designed a modular architecture by structuring the shell's core
+  functionalities into separate components, making the codebase extensible for
+  future enhancements such as piping and background process execution
 
-- Created a terminal-based game with efficient data structures including doubly linked lists and designed modular game logic using structs for scalable and maintainable code.
-- Optimized memory usage by implementing bit-packing techniques and validated code integrity using Valgrind for memory leak detection.
-- Improved performance and concurrency by leveraging pthreads for multithreading, ensuring responsive gameplay even with complex board state updates.
-- Implemented unit testing with the Criterion framework and systematic debugging using LLDB
+### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy) | C, POSIX Threads, LLDB, Valgrind | December 2024
 
-#### [2024 NASA Space Apps Challenge, Chicago](https://github.com/keyaloding/nasa-space-apps) | Python | October 2024
+- Created a terminal-based game with efficient data structures including doubly
+  linked lists and designed modular game logic using structs for scalable and
+  maintainable code
+- Optimized memory usage by implementing bit-packing techniques and validated
+  code integrity using Valgrind for memory leak detection
+- Improved performance and concurrency by leveraging pthreads for
+  multithreading, ensuring responsive gameplay even with complex board state
+  updates.
+- Implemented unit testing with the Criterion framework and systematic
+  debugging using LLDB
 
-- Designed a website during a 30-hour hackathon that allows users to explore an artificial version of Earth in which chemosynthesis sustains all life, using a 3D molecule visualizer, interactive food web builder, and interactive simulator that shows organisms found in oceanic depths
+### [2024 NASA Space Apps Challenge, Chicago](https://github.com/keyaloding/nasa-space-apps) | Python | October 2024
+
+- Designed a website during a 30-hour hackathon that allows users to explore an
+  artificial version of Earth in which chemosynthesis sustains all life, using a
+  3D molecule visualizer, interactive food web builder, and interactive
+  simulator that shows organisms found in oceanic depths
 - Placed in the top 10 out of 71 teams.
 
-</details>
-
-</details>
-
-<details>
-  <summary><h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Social Media</h2></summary>
+<h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Social Media</h2>
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
   <a href="https://github.com/keyaloding">
@@ -114,11 +119,6 @@ solutions. Please feel free to reach out if you'd like to connect!
   </a>
 </div>
 
-</details>
-
 ## <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
-<p>
- <i>You can reach out to me via email: </i>
-&nbsp;[contact.keyaloding@uchicago.edu](mailto:contact.keyaloding@uchicago.edu)
-</p>
+<i>You can reach out to me via email: </i>[keyaloding@uchicago.edu](mailto:keyaloding@uchicago.edu)
