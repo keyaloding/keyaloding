@@ -1,13 +1,14 @@
-<h1 align="center">Hi <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Hi.gif" width="28px"/>, I'm Keya Loding</h2>
-<h2 align="center">
-UChicago '26 | Computer Science
-</h2>
+<h1 align="center">Hi
+  <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Hi.gif" width="28px"/>, I'm Keya Loding
+</h1>
 
-<div align="center">
+<p align="center">
  <img alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47gk1528878r4j8py2luujr4sswa3ejtsw7cf7w94a&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</div>
+</p>
 
-<h2><img alt="GIF" src="https://github.com/keyaloding/keyaloding/icons/about.gif" /> About Me</h2>
+<h2>
+  <img alt="GIF" src="https://github.com/keyaloding/keyaloding/blob/main/icons/about.gif" width="29"/> About Me
+</h2>
 
 I am a third-year student at the University of Chicago studying computer science
 with a strong foundation in backend development and growing experience in
@@ -18,8 +19,8 @@ solutions. Please feel free to reach out if you'd like to connect!
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif" width="29"/> Education</h2>
 
-**University of Chicago** | September 2022 - May 2026
-<p>B.S. Computer Science</p>
+**University of Chicago** | September 2022 - May 2026  
+B.S. Computer Science
 <p>Relevant Coursework:</p>
 
 - Systems Programming
@@ -54,7 +55,7 @@ solutions. Please feel free to reach out if you'd like to connect!
     genome-wide association studies, QTL mapping, polygenetic risk prediction,
     and pleiotropy analysis
 
-<h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Tech Stack</h2>
+<h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Technical Skills</h2>
 
 - **Programming Languages:** Python, C/C++, SQL, Rust, R, Java
 - **Libraries/Frameworks:** PyTorch, Pandas, Matplotlib, React
@@ -66,7 +67,7 @@ solutions. Please feel free to reach out if you'd like to connect!
 
 - Developed a top-down zombie survival shooter game with the `pygame` library
 
-### [K Malloc](https://github.com/keyaloding/kmalloc) | C | February 2025
+### [K Malloc](https://github.com/keyaloding/kmalloc) | C | March 2025
 
 - Developed a custom dynamic memory allocator to manage heap memory efficiently
 - Implemented memory allocation using `mmap()`, expanding the heap dynamically
@@ -110,14 +111,14 @@ solutions. Please feel free to reach out if you'd like to connect!
 
 <h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Social Media</h2>
 
-<div style="display: flex; flex-direction: column; justify-content: center; align-items: center; ">
+<p>
   <a href="https://github.com/keyaloding">
-    <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Github.gif" width="70"/>
+    <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Github.gif" width="70"/>
   </a>
   <a href="https://linkedin.com/in/keyaloding">
-    <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Linkedin.gif" width="70"/>
+    <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
-</div>
+</p>
 
 ## <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
