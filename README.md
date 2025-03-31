@@ -66,6 +66,7 @@ B.S. Computer Science
 ### [Last Stand](https://github.com/mutrera-2004/UH2025) | Python | March 2025
 
 - Developed a top-down zombie survival shooter game with the `pygame` library
+  for the 2025 Uncommon Hacks hackathon at UChicago
 
 ### [K Malloc](https://github.com/keyaloding/kmalloc) | C | March 2025
 
