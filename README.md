@@ -3,19 +3,22 @@
 </h1>
 
 <p align="center">
- <img alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47gk1528878r4j8py2luujr4sswa3ejtsw7cf7w94a&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+ <img alt="GIF" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif?cid=ecf05e47gk1528878r4j8py2luujr4sswa3ejtsw7cf7w94a&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="240px"/>
 </p>
 
 <h2>
-  <img alt="GIF" src="https://github.com/keyaloding/keyaloding/blob/main/icons/about.gif" width="29"/> About Me
+  About Me
 </h2>
 
-I am a third-year student at the University of Chicago studying computer science
-with a strong foundation in backend development and growing experience in
-frontend development. I have previously worked as a software engineering intern
-at the Salk Institute for Biological Studies. I'm now looking for opportunities
-to apply my programming and problem-solving skills to create impactful software
-solutions. Please feel free to reach out if you'd like to connect!
+I am a rising fourth-year student at the University of Chicago studying
+computer science with a strong foundation in backend development and growing
+experience in frontend development. I am currently a software engineering intern
+at Vertex Inc on the performance engineering team. I have previously worked as a
+software engineering intern at the Salk Institute for Biological Studies. I'm
+now looking for opportunities to apply my programming and problem-solving skills
+to create impactful software solutions. Please feel free to reach out if you'd
+like to connect! I am looking at new-grad opportunities starting in July/August
+2026.
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif" width="29"/> Education</h2>
 
@@ -27,14 +30,22 @@ B.S. Computer Science
 - Database Systems
 - Computer Architecture
 - Computer Security
+- Theory of Algorithms
 - Mathematical Foundations of Machine Learning
 - Linear Algebra
 - Discrete Mathematics
-- Theory of Algorithms
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif" width="29"/> Experience</h2>
 
-- **Incoming Software Engineering Intern** at Vertex, Inc | June 2025 - August 2025
+- **Software Engineering Intern** at Vertex Inc | June 2025 - August 2025
+  - Collaborate with the Performance Engineering team to analyze and optimize
+  product performance using profiling tools, performance models, and queuing
+  theory
+  - Develop and execute automated performance tests to measure system
+  scalability, identify bottlenecks, and validate enhancements across
+  distributed systems
+  - Assist in building and refining CI/CD pipelines and monitoring
+  infrastructure using AWS cloud technologies and DevOps best practices
 
 - **Software Engineering Intern** at the Salk Institute for Biological Studies
   | June 2024 - October 2024
@@ -63,12 +74,24 @@ B.S. Computer Science
 
 <h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2>
 
-### [Last Stand](https://github.com/mutrera-2004/UH2025) | Python | March 2025
+### [CrustyDB](https://github.com/uchicago-cmsc23500-spr-2025/crustydb-keyaloding) | *Rust* | April 2025 - May 2025
+
+- Implemented core storage and query execution components for a database
+  management system
+- Developed a slotted-page storage manager in to support variable-length data
+  tuples within fixed-size pages, implementing serialization and
+  deserialization of metadata
+- Wrote low-level I/O methods to handle binary page storage and recovery,
+  ensuring data integrity through checksum and logging.
+- Worked extensively with Rust's memory safety model, lifetimes, and trait-based
+  abstractions to implement robust and type-safe systems code.
+
+### [Last Stand](https://github.com/mutrera-2004/UH2025) | *Python* | March 2025
 
 - Developed a top-down zombie survival shooter game with the `pygame` library
   for the 2025 Uncommon Hacks hackathon at UChicago
 
-### [K Malloc](https://github.com/keyaloding/kmalloc) | C | March 2025
+### [K Malloc](https://github.com/keyaloding/kmalloc) | *C* | March 2025
 
 - Developed a custom dynamic memory allocator to manage heap memory efficiently
 - Implemented memory allocation using `mmap()`, expanding the heap dynamically
@@ -76,7 +99,7 @@ B.S. Computer Science
 - Handled memory fragmentation and coalescing, improving performance and
   reducing wasted space
 
-### [Unix Shell](https://github.com/keyaloding/shell) | C, Unix | February 2025
+### [Unix Shell](https://github.com/keyaloding/shell) | *C, Unix* | February 2025
 
 - Developed a Unix-like shell in C, implementing process creation and management
   with system calls
@@ -89,7 +112,7 @@ B.S. Computer Science
   functionalities into separate components, making the codebase extensible for
   future enhancements such as piping and background process execution
 
-### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy) | C, POSIX Threads, LLDB, Valgrind | December 2024
+### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy) | *C, POSIX Threads* | December 2024
 
 - Created a terminal-based game with efficient data structures including doubly
   linked lists and designed modular game logic using structs for scalable and
@@ -102,7 +125,7 @@ B.S. Computer Science
 - Implemented unit testing with the Criterion framework and systematic
   debugging using LLDB
 
-### [2024 NASA Space Apps Challenge, Chicago](https://github.com/keyaloding/nasa-space-apps) | Python | October 2024
+### [NASA Space Apps Challenge](https://github.com/keyaloding/nasa-space-apps) | *Python* | October 2024
 
 - Designed a website during a 30-hour hackathon that allows users to explore an
   artificial version of Earth in which chemosynthesis sustains all life, using a
@@ -123,4 +146,5 @@ B.S. Computer Science
 
 ## <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Contact.gif"  width="37"/> Contact Me
 
-<i>You can reach out to me via email: </i>[keyaloding@uchicago.edu](mailto:keyaloding@uchicago.edu)
+<i>You can reach out to me via email: </i>
+[keyaloding@uchicago.edu](mailto:keyaloding@uchicago.edu)
