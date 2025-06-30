@@ -22,7 +22,7 @@ like to connect! I am looking at new-grad opportunities starting in July/August
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif" width="29"/> Education</h2>
 
-**University of Chicago** | September 2022 - May 2026  
+**University of Chicago** | September 2022 - June 2026  
 B.S. Computer Science
 <p>Relevant Coursework:</p>
 
@@ -37,10 +37,9 @@ B.S. Computer Science
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif" width="29"/> Experience</h2>
 
-- **Software Engineering Intern** at Vertex Inc | June 2025 - August 2025
-  - Collaborate with the Performance Engineering team to analyze and optimize
-  product performance using profiling tools, performance models, and queuing
-  theory
+- **Software Engineering Intern** at Vertex Inc | June 2025 - present
+  - Analyze and optimize product performance using profiling tools, performance
+  models, and queueing theory as a member of the Performance Engineering team
   - Develop and execute automated performance tests to measure system
   scalability, identify bottlenecks, and validate enhancements across
   distributed systems
