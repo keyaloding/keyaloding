@@ -12,20 +12,18 @@
 
 I am a rising fourth-year student at the University of Chicago studying
 computer science with a strong foundation in backend development and growing
-experience in frontend development. I am currently a software engineering intern
-at Vertex Inc on the performance engineering team. I have previously worked as a
-software engineering intern at the Salk Institute for Biological Studies. I'm
-now looking for opportunities to apply my programming and problem-solving skills
-to create impactful software solutions. Please feel free to reach out if you'd
-like to connect! I am looking at new-grad opportunities starting in July/August
-2026.
+experience in frontend development. I have previously worked as a software
+engineering intern at Vertex Inc and the Salk Institute for Biological Studies.
+I'm now looking for opportunities to apply my programming and problem-solving
+skills to create impactful software solutions. Please feel free to reach out
+if you'd like to connect! I am looking at new-grad opportunities starting in
+July/August 2026.
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif" width="29"/> Education</h2>
 
-**University of Chicago** | September 2022 - June 2026  
-B.S. Computer Science
-<p>Relevant Coursework:</p>
-
+### **University of Chicago** | September 2022 - June 2026
+#### B.S. Computer Science, *Specialization in Computer Science*, GPA 3.78/4.00
+Relevant Coursework:
 - Systems Programming
 - Database Systems
 - Computer Architecture
@@ -37,17 +35,17 @@ B.S. Computer Science
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif" width="29"/> Experience</h2>
 
-- **Software Engineering Intern** at Vertex Inc | June 2025 - present
-  - Analyze and optimize product performance using profiling tools, performance
-  models, and queueing theory as a member of the Performance Engineering team
-  - Develop and execute automated performance tests to measure system
+### Vertex Inc, *Software Engineering Intern* | June 2025 - August 2025
+  - Analyzed and optimized product performance using profiling tools,
+  performance models, and queueing theory as a member of the Performance
+  Engineering team
+  - Developd and executed automated performance tests to measure system
   scalability, identify bottlenecks, and validate enhancements across
   distributed systems
-  - Assist in building and refining CI/CD pipelines and monitoring
+  - Assisted in building and refining CI/CD pipelines and monitoring
   infrastructure using AWS cloud technologies and DevOps best practices
 
-- **Software Engineering Intern** at the Salk Institute for Biological Studies
-  | June 2024 - October 2024
+### Salk Institute for Biological Studies, *Software Engineering Intern* | June 2024 - October 2024
   - Built a Python web app using Streamlit and pygfx that allows users to
     interact with real-time visualizations by offering a more interactive
     and dynamic experience
@@ -56,8 +54,7 @@ B.S. Computer Science
   - Implemented GUI trackpad support using the QtPy library,
     enhancing user experience and interaction.
 
-- **Data Science/Bioinformatics Research Intern** at the UChicago
-  Department of Medicine | February 2024 - May 2024
+### UChicago Department of Medicine, *Data Science Intern* | February 2024 - May 2024
   - Developed and optimized Python scripts to analyze large-scale electronic
     biobanks, studying cardiovascular disease through longitudinal analysis,
     mixed-effects modeling, and regression
@@ -67,9 +64,9 @@ B.S. Computer Science
 
 <h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Technical Skills</h2>
 
-- **Programming Languages:** Python, C/C++, SQL, Rust, R, Java
-- **Libraries/Frameworks:** PyTorch, Pandas, Matplotlib, React
-- **Developer Tools:** Git, Unix, Docker
+**Programming Languages:** Python, C/C++, SQL, Rust, R, Java  
+**Libraries/Frameworks:** PyTorch, Pandas, Matplotlib, Scikit-learn, SciPy  
+**Developer Tools:** Git, Unix, Docker
 
 <h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2>
 
