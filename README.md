@@ -47,11 +47,15 @@ Relevant Coursework:
   infrastructure using AWS cloud technologies and DevOps best practices
 
 ### Salk Institute for Biological Studies, *Software Engineering Intern*, June 2024 - October 2024
-  - Built a Python web app using Streamlit and pygfx that allows users to
-    interact with real-time visualizations by offering a more interactive
-    and dynamic experience
-  - Integrated support for 'nwb' data from Neurodata without Borders,
-    enabling seamless data standardization for neurophysiology.
+  - Optimized a machine learning model for pose estimation, reducing error
+  rates by 13% and improving accuracy by 9% through hyperparameter tuning and
+  regularization
+  - Developed a real-time visualization web app using the pygfx Python library
+  to enable interactive exploration of pose estimation results
+  - Integrated .nwb (Neurodata Without Borders) data support, streamlining data
+  standardization and interoperability across neurophysiology workflows
+  - Expanded video file representation classes by incorporating additional
+  metadata, improving data handling and analysis capabilities
 
 ### UChicago Department of Medicine, *Data Science Intern*, February 2024 - May 2024
   - Developed and optimized Python scripts to analyze large-scale electronic
@@ -63,9 +67,10 @@ Relevant Coursework:
 
 <h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Technical Skills</h2>
 
-**Programming Languages:** Python, C/C++, SQL, Rust, R, Java  
-**Libraries/Frameworks:** PyTorch, Pandas, Matplotlib, Scikit-learn, SciPy  
-**Developer Tools:** Git, Unix, Docker
+**Programming Languages:** Python, C/C++, SQL, JavaScript/TypeScript, Rust, C#  
+**Libraries/Frameworks:** Node.js, React, Pandas, NumPy, Matplotlib  
+**Developer Tools:** Git, Unix, Docker, Unity  
+**Languages:** English, Spanish, Portuguese
 
 <h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/projects.gif"  width="29"/> Projects</h2>
 
