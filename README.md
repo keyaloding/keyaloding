@@ -10,28 +10,26 @@
   About Me
 </h2>
 
-I'm a rising fourth-year student at the University of Chicago studying
-computer science and an incoming software engineer at Vertex Inc. Please feel
-free to reach out if you'd like to connect!
+I'm a fourth-year student at the University of Chicago studying computer science
+and an incoming software engineer at Vertex Inc. Please feel free to reach out
+if you'd like to connect!
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif" width="29"/> Education</h2>
 
-### **University of Chicago**, September 2022 - June 2026
-#### B.S. Computer Science, *Specialization in Human-Computer Interaction*
+### University of Chicago, *B.A. Computer Science*, September 2022 - June 2026
 Relevant Coursework:
+- Applied Regression Analysis
 - Database Systems
-- Data Visualization
-- Computer Security
 - Data Science for Computer Scientists
-- Robotics
+- Data Visualization
+- Mathematical Foundations of Machine Learning
+- Mathematical Methods for Economics Analysis
+- Statistical Methods and Applications
 - Systems Programming
-- Mobile Computing
-- Printed Circuit Board Engineering
-- Mathematical Foundations of ML
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif" width="29"/> Experience</h2>
 
-### Vertex Inc, *Software Engineer I*, August 2026 - ...
+### Vertex Inc, *Junior Software Engineer*, August 2026 - ...
 
 ### Vertex Inc, *Software Engineering Intern*, June 2025 - August 2025
   - Analyzed and optimized product performance using profiling tools,
@@ -65,9 +63,9 @@ Relevant Coursework:
     genome-wide association studies, QTL mapping, polygenetic risk prediction,
     and pleiotropy analysis
 
-<h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Technical Skills</h2>
+<h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Skills</h2>
 
-**Programming Languages:** Python, C/C++, SQL, JavaScript/TypeScript, Rust, C#  
+**Programming Languages:** Python, C/C++, SQL, JavaScript, Rust, C#  
 **Libraries/Frameworks:** Node.js, React, Pandas, NumPy, Matplotlib  
 **Developer Tools:** Git, Unix, Docker, Unity  
 **Languages:** English, Spanish, Portuguese
@@ -96,7 +94,7 @@ Relevant Coursework:
 - Handled memory fragmentation and coalescing, improving performance and
   reducing wasted space
 
-### [Unix Shell](https://github.com/keyaloding/shell), *C, Unix*, February 2025
+### [Unix Shell](https://github.com/keyaloding/shell), *C*, February 2025
 - Developed a Unix-like shell in C, implementing process creation and management
   with system calls
 - Applied defensive programming techniques to handle invalid user input, prevent
@@ -108,7 +106,7 @@ Relevant Coursework:
   functionalities into separate components, making the codebase extensible for
   future enhancements such as piping and background process execution
 
-### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy), *C, POSIX Threads*, December 2024
+### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy), *C*, December 2024
 - Created a terminal-based game with efficient data structures including doubly
   linked lists and designed modular game logic using structs for scalable and
   maintainable code
