@@ -1,5 +1,5 @@
-<h1 align="center">Hi
-  <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Hi.gif" width="28px"/>, I'm Keya Loding
+<h1 align="center">Hi, I'm Keya Loding
+  <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Hi.gif" width="28px"/>
 </h1>
 
 <p align="center">
@@ -20,8 +20,10 @@ if you'd like to connect!
 Relevant Coursework:
 - Applied Regression Analysis
 - Database Systems
-- Data Science for Computer Scientists
+- Data Engineering
+- Data Science
 - Data Visualization
+- Linear Algebra
 - Mathematical Foundations of Machine Learning
 - Mathematical Methods for Economics Analysis
 - Statistical Methods and Applications
@@ -30,6 +32,7 @@ Relevant Coursework:
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif" width="29"/> Experience</h2>
 
 ### Vertex Inc, *Junior Software Engineer*, August 2026 - ...
+Performance Engineering Team
 
 ### Vertex Inc, *Software Engineering Intern*, June 2025 - August 2025
   - Analyzed and optimized product performance using profiling tools,
@@ -105,25 +108,6 @@ Relevant Coursework:
 - Designed a modular architecture by structuring the shell's core
   functionalities into separate components, making the codebase extensible for
   future enhancements such as piping and background process execution
-
-### [Topsy-Turvy](https://github.com/keyaloding/topsy-turvy), *C*, December 2024
-- Created a terminal-based game with efficient data structures including doubly
-  linked lists and designed modular game logic using structs for scalable and
-  maintainable code
-- Optimized memory usage by implementing bit-packing techniques and validated
-  code integrity using Valgrind for memory leak detection
-- Improved performance and concurrency by leveraging pthreads for
-  multithreading, ensuring responsive gameplay even with complex board state
-  updates.
-- Implemented unit testing with the Criterion framework and systematic
-  debugging using LLDB
-
-### [NASA Space Apps Challenge](https://github.com/keyaloding/nasa-space-apps), *Python*, October 2024
-- Designed a website during a 30-hour hackathon that allows users to explore an
-  artificial version of Earth in which chemosynthesis sustains all life, using a
-  3D molecule visualizer, interactive food web builder, and interactive
-  simulator that shows organisms found in oceanic depths
-- Placed in the top 10 out of 71 teams.
 
 <h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Social Media</h2>
 
