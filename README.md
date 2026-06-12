@@ -10,19 +10,20 @@
   About Me
 </h2>
 
-I'm a fourth-year student at the University of Chicago studying computer science
-and an incoming software engineer at Vertex Inc. Please feel free to reach out
-if you'd like to connect!
+I'm an incoming software engineer at Vertex Inc with a B.A. in Computer Science
+from the University of Chicago. My main skills and interests are performance
+engineering, systems programming, and database systems. Please feel free to
+reach out if you'd like to connect!
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/academics.gif" width="29"/> Education</h2>
 
 ### University of Chicago, *B.A. Computer Science*, September 2022 - June 2026
-Relevant Coursework:
+**Relevant Coursework:**
 - Applied Regression Analysis
+- Computer Security
 - Database Systems
 - Data Engineering
-- Data Science
-- Data Visualization
+- Data Science for Computer Scientists
 - Linear Algebra
 - Mathematical Foundations of Machine Learning
 - Mathematical Methods for Economics Analysis
