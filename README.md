@@ -10,7 +10,7 @@
   About Me
 </h2>
 
-I'm an incoming software engineer at Vertex Inc with a B.A. in Computer Science
+I'm a software engineer at Vertex Inc with a B.A. in Computer Science
 from the University of Chicago. My main skills and interests are performance
 engineering, systems programming, and database systems. Please feel free to
 reach out if you'd like to connect!
@@ -32,8 +32,7 @@ reach out if you'd like to connect!
 
 <h2><img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/experience.gif" width="29"/> Experience</h2>
 
-### Vertex Inc, *Junior Software Engineer*, August 2026 - ...
-Performance Engineering Team
+### Vertex Inc, *Software Engineer*, August 2026 - present
 
 ### Vertex Inc, *Software Engineering Intern*, June 2025 - August 2025
   - Analyzed and optimized product performance using profiling tools,
