@@ -58,17 +58,9 @@ reach out if you'd like to connect!
   - Expanded video file representation classes by incorporating additional
   metadata, improving data handling and analysis capabilities
 
-### UChicago Department of Medicine, *Data Science Intern*, February 2024 - May 2024
-  - Developed and optimized Python scripts to analyze large-scale electronic
-    biobanks, studying cardiovascular disease through longitudinal analysis,
-    mixed-effects modeling, and regression
-  - Used bioinformatics methods for population genetics studies, such as
-    genome-wide association studies, QTL mapping, polygenetic risk prediction,
-    and pleiotropy analysis
-
 <h2> <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/techstack.gif"  width="29"/> Skills</h2>
 
-**Programming Languages:** Python, C/C++, SQL, JavaScript, Rust, C#  
+**Programming Languages:** Python, C/C++, SQL, JavaScript, Rust  
 **Libraries/Frameworks:** Node.js, React, Pandas, NumPy, Matplotlib  
 **Developer Tools:** Git, Unix, Docker, Unity  
 **Languages:** English, Spanish, Portuguese
@@ -109,18 +101,13 @@ reach out if you'd like to connect!
   functionalities into separate components, making the codebase extensible for
   future enhancements such as piping and background process execution
 
-<h2> <img align ='center' src='https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtqdDdwN2oyNWJ4czlncHBkamJxaHcxYmVmcXY3a3I3MjRmYjBrbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9ZQ/kmUvauX8TMWg0OsqKW/giphy.gif' width ='37' /> Social Media</h2>
+## <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Contact.gif"  width="37"/> Contact Me
+
+<i>You can reach out to me via email: </i>
+[loding.keya@gmail.com](mailto:loding.keya@gmail.com)
 
 <p>
-  <a href="https://github.com/keyaloding">
-    <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Github.gif" width="70"/>
-  </a>
   <a href="https://linkedin.com/in/keyaloding">
     <img src="https://github.com/keyaloding/keyaloding/blob/main/icons/Linkedin.gif" width="70"/>
   </a>
 </p>
-
-## <img align="center" src="https://github.com/keyaloding/keyaloding/blob/main/icons/Contact.gif"  width="37"/> Contact Me
-
-<i>You can reach out to me via email: </i>
-[keyaloding@uchicago.edu](mailto:keyaloding@uchicago.edu)
